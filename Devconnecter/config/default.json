@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Arpit:1234@devconnector.qnjtenb.mongodb.net/",
+    "jwtsecret":"mysecrettoken"
+}
